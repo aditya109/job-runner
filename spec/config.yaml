@@ -1,0 +1,7 @@
+server:
+  environment: "dev" # pre-configured values- prod, dev, stag
+scenarios:
+  - "scenario_A01.yaml"
+  - "scenario_A02.yaml"
+        
+
