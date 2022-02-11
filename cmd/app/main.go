@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
+	exe "github.com/aditya109/job-runner/internal/executor"
 	cfg "github.com/aditya109/job-runner/pkg/config"
 	log "github.com/aditya109/job-runner/pkg/logwrapper"
 	st "github.com/aditya109/job-runner/pkg/suite"
-	exe "github.com/aditya109/job-runner/internal/executor"
 )
 
 var (
